@@ -1,0 +1,8 @@
+**/node_modules
+**/.DS_Store
+**/.env
+**/.env.*
+backend/temp
+backend/uploads/chunks
+backend/uploads/videos
+frontend/dist
